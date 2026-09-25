@@ -2,7 +2,7 @@
 
 Visita la web oficial de [DIGITAL.CSIC](https://digital.csic.es).
 
-[Ejecutar proyecto](https://mybinder.org/v2/gh/belphegor999/pruebaBinder/HEAD)
+[Ejecutar proyecto](https://mybinder.org/v2/gh/belphegor999/miPrimerBinder/HEAD)
 
 
 [Prueba enlace](https://ho.es)
